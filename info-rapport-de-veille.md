@@ -4,8 +4,7 @@
 Innoside souhaite dans le cadre du déploiement de son application hybride de réalité augmentée (iOS & Android) avec interface full web et backend en symphony effectuer une veille suivi d'un POC sur les plugin-apache-cordova compatibles avec la création de réseau BLE (Bluetooth Low Energy) et Wifi pour créer des réseaux Peer-2-Peer Mesh.
 
 ## [Possibilités et Avantages]
-L'application google nearby connection permet d'effectuer un appareillage entre deux ou plusieurs smartphones, il est théoriquement possible d'appareiller 65 000 appareils entre eux via Bluetooth, BLE ou Wifi direct.
-![Source]()
+L'application google nearby connection permet d'effectuer un appareillage entre deux ou plusieurs smartphones, il est théoriquement possible d'appareiller autant d'appareils que l'on souhaite entre eux via Bluetooth, BLE ou Wifi direct.
 
 L'intêret de cette technologie et ce que nous avons exploré : 
 - Transfer de fichiers en mode Hors-Ligne, il est possible de partager des photos, vidéos, ou tout autres types de données, rapidement et sans connection à un réseau GSM ou WiFi privé. 
@@ -33,7 +32,7 @@ Après avoir testé l'application et ses limitations, nous avons donc écarté c
 Il n'existe pas à ce jour de plugin Cordova libre d'utilisation disposant de la technologie Google Nearby Connections, suite aux recherches sur un éventuel plugin nous nous sommes donc orientés vers React Native qui dispose d'un plugin fonctionnel sous cette technologie.
 
 
-### [Limitations de Nearby Connections] 
+## [Limitations de Nearby Connections] 
 Distances de détéction des appareils :
 - 100m-80m environ pour le WiFi.
 - 30m environ pour le Bluetooth, BLE.

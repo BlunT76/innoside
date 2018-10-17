@@ -1,6 +1,6 @@
-###[POC Reseau P2P Mesh]
+### [POC Reseau P2P Mesh]
 
-##[Sujet]
+## [Sujet]
 Innoside souhaite dans le cadre du déploiement de son application hybride de réalité augmentée (iOS & Android) avec interface full web et backend en symphony effectuer une veille suivi d'un POC sur les plugin-apache-cordova compatibles avec la création de réseau BLE (Bluetooth Low Energy) et Wifi pour créer des réseaux Peer-2-Peer Mesh.
 
 ## [Possibilités et Avantages]
@@ -33,7 +33,7 @@ Après avoir testé l'application et ses limitations, nous avons donc écarté c
 Il n'existe pas à ce jour de plugin Cordova libre d'utilisation disposant de la technologie Google Nearby Connections, suite aux recherches sur un éventuel plugin nous nous sommes donc orientés vers React Native qui dispose d'un plugin fonctionnel sous cette technologie.
 
 
-### Limitations de Nearby Connections 
+### [Limitations de Nearby Connections] 
 Distances de détéction des appareils :
 - 100m-80m environ pour le WiFi.
 - 30m environ pour le Bluetooth, BLE.

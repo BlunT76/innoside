@@ -41,24 +41,24 @@ Distances de détéction des appareils :
 
 Pour plus d'informations, voir ressources.
 
-##[Ressources about Nearby Connections]
-![Google Nearby Github](https://github.com/googlesamples/android-nearby/tree/master/connections)
-![Developers nearby](https://developers.google.com/nearby/connections/overview)
-![Cordova pluggin](https://github.com/hahahannes/cordova-plugin-google-nearby)
-![Nearby Connections APIを使ってみる - Qiita](https://qiita.com/niusounds/items/ecc759c51da8e1f1e8a0#mpayloadcallback)
-![Exploring Nearby Connections 2.0 – Caren Chang – Medium](https://medium.com/@calren24/exploring-nearby-connections-2-0-bd0681ac8e64)
-![Google Play Services: Using the Nearby Connections API](https://code.tutsplus.com/tutorials/google-play-services-using-the-nearby-connections-api--cms-24534)
-![Connect Android Things to a Smartphone With Nearby Connections 2.0](https://code.tutsplus.com/tutorials/connect-android-things-to-a-smartphone-with-nearby-connections-20--cms-28269)
-![Google Nearby Connections](https://zhuanlan.zhihu.com/p/28548310)
+## [Ressources about Nearby Connections]
+- ![Google Nearby Github](https://github.com/googlesamples/android-nearby/tree/master/connections)
+- ![Developers nearby](https://developers.google.com/nearby/connections/overview)
+- ![Cordova pluggin](https://github.com/hahahannes/cordova-plugin-google-nearby)
+- ![Nearby Connections APIを使ってみる - Qiita](https://qiita.com/niusounds/items/ecc759c51da8e1f1e8a0#mpayloadcallback)
+- ![Exploring Nearby Connections 2.0 – Caren Chang – Medium](https://medium.com/@calren24/exploring-nearby-connections-2-0-bd0681ac8e64)
+- ![Google Play Services: Using the Nearby Connections API](https://code.tutsplus.com/tutorials/google-play-services-using-the-nearby-connections-api--cms-24534)
+- ![Connect Android Things to a Smartphone With Nearby Connections 2.0](https://code.tutsplus.com/tutorials/connect-android-things-to-a-smartphone-with-nearby-connections-20--cms-28269)
+- ![Google Nearby Connections](https://zhuanlan.zhihu.com/p/28548310)
 
 ## [BLE - Bluetooth low energy]
-![Communicating with Bluetooth Low Energy Devices in Cordova — SitePoint](https://www.sitepoint.com/communicating-with-bluetooth-low-energy-devices-in-cordova/)
-![roborags/BLE_Mesh_Network](https://github.com/roborags/BLE_Mesh_Network)
-![Bluetooth’s third trick – Mesh networking for IoT](http://iotdesign.embedded-computing.com/articles/bluetooths-third-trick-mesh-networking-for-iot/)
-![Bluetooth Smart,Bluetooth Low Energy tutorial,BLE tutorial](https://www.rfwireless-world.com/Tutorials/Bluetooth-Smart-Bluetooth-Low-Energy-BLE-tutorial.html)
-![Peer-to-peer network via Bluetooth on Android](http://profandroid.com/network/bluetooth/peer-to-peer-network.html)
-![EvoThings Cordova plugin](https://github.com/evothings/cordova-ble)
-![PDF about Wireless BLEmesh Network](http://eeca2.sogang.ac.kr/publications/international/BLEmesh_A%20Wireless%20Mesh%20Network%20Protocol%20for%20Bluetooth%20Low%20Energy%20Devices.pdf)
+- ![Communicating with Bluetooth Low Energy Devices in Cordova — SitePoint](https://www.sitepoint.com/communicating-with-bluetooth-low-energy-devices-in-cordova/)
+- ![roborags/BLE_Mesh_Network](https://github.com/roborags/BLE_Mesh_Network)
+- ![Bluetooth’s third trick – Mesh networking for IoT](http://iotdesign.embedded-computing.com/articles/bluetooths-third-trick-mesh-networking-for-iot/)
+- ![Bluetooth Smart,Bluetooth Low Energy tutorial,BLE tutorial](https://www.rfwireless-world.com/Tutorials/Bluetooth-Smart-Bluetooth-Low-Energy-BLE-tutorial.html)
+- ![Peer-to-peer network via Bluetooth on Android](http://profandroid.com/network/bluetooth/peer-to-peer-network.html)
+- ![EvoThings Cordova plugin](https://github.com/evothings/cordova-ble)
+- ![PDF about Wireless BLEmesh Network](http://eeca2.sogang.ac.kr/publications/international/BLEmesh_A%20Wireless%20Mesh%20Network%20Protocol%20for%20Bluetooth%20Low%20Energy%20Devices.pdf)
 
 ## [Offline first]
-![Link ressources about offline apps](https://github.com/pazguille/offline-first)
+- ![Link ressources about offline apps](https://github.com/pazguille/offline-first)
